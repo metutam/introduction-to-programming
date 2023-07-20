@@ -1,4 +1,4 @@
-function [result,A]=main(number1,number2,number3)
+function [result,A]=Question1(number1,number2,number3)
 
 A=[number1,number2,number3]; % array
 
