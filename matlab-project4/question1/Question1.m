@@ -1,4 +1,4 @@
-function result=main(A)
+function result=Question1(A)
 
 test1=IsInteger(A);
 if test1
