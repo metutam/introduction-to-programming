@@ -1,5 +1,5 @@
 %{
-Calculate Rental Fee Of A Bike
+Calculate The Rental Fee Of A Bike
 %}
 
 clc;
