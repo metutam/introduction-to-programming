@@ -1,4 +1,4 @@
-function result=main(number1,number2)
+function result=Question2(number1,number2)
 
 firstTest=WrongSort(number1,number2);
 if firstTest
