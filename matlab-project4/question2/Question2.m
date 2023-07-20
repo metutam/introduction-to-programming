@@ -1,4 +1,4 @@
-function result=main(M)
+function result=Question2(M)
 
 test1=Is2Dimensional(M);
 if test1
